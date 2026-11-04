@@ -117,6 +117,3 @@ If keys are missing, errors are surfaced in Streamlit to help you catch setup is
 ## Contributing
 Feel free to open issues or PRs that improve reliability, add new tools, or enhance the UI. Keep code simple and documented so the project stays approachable.
 
----
-## License
-MIT (see repository license if provided).
